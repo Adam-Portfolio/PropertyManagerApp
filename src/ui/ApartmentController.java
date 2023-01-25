@@ -159,7 +159,7 @@ public class ApartmentController {
 //                Parent root1 = (Parent) fxmlLoader.load();
                 Pane pane = (Pane) fxmlLoader.load();
                 Stage stage = new Stage();
-                stage.setTitle("AFravel 2742 Ex1E Invoices");
+                stage.setTitle("Invoices");
                 stage.setScene(new Scene(pane));
                 stage.show();
             } catch (IOException e) {
