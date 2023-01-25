@@ -19,7 +19,7 @@ public class ApartmentApplication extends Application {
 
         Scene scene = new Scene(root);
         primaryStage.setScene(scene);
-        primaryStage.setTitle("AFravel 2742 Ex1E Apartment");
+        primaryStage.setTitle("AFravel Property Manager");
         primaryStage.show();
 
     }
