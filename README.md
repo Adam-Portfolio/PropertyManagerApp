@@ -1,12 +1,12 @@
 <!-- INTRO -->
-<div>
-  <h3 align="center">Property Manager</h3>
+# Property Manager App
 
-  <p align="center">
-    Java application that allows users to...
-    <br />
-  </p>
-</div>
+Java application that allows users to...
+
+* View apartments & related info (#, SqFt, Bathrooms, Price)
+* View Administrators and Tenants of apartments
+* Create new and edit Apartments
+* View, edit and save invoices and line items for Apartments
 
 ### Built With
 
